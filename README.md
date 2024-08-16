@@ -17,8 +17,8 @@ I'm Rachel - a neuroscience researcher who investigates the mechanisms of reserv
 ![Nilearn](https://img.shields.io/badge/Nilearn-27338e?style=for-the-badge&logo=PyPi&logoColor=white)
 
 #### R Libraries
-![dplyr](https://img.shields.io/badge/dplyr-FF5733?style=for-the-badge&logo=R&logoColor=white)
-![tidyr](https://img.shields.io/badge/tidyr-33FF57?style=for-the-badge&logo=R&logoColor=white)
-![ggplot2](https://img.shields.io/badge/ggplot2-3375FF?style=for-the-badge&logo=R&logoColor=white)
-![knitr](https://img.shields.io/badge/knitr-FF33A8?style=for-the-badge&logo=R&logoColor=white)
-![psych](https://img.shields.io/badge/psych-FF7F33?style=for-the-badge&logo=R&logoColor=white)
+![dplyr](https://img.shields.io/badge/dplyr-E6A4B4?style=for-the-badge&logo=R&logoColor=black)
+![tidyr](https://img.shields.io/badge/tidyr-FFDA76?style=for-the-badge&logo=R&logoColor=black)
+![ggplot2](https://img.shields.io/badge/ggplot2-B4D6CD?style=for-the-badge&logo=R&logoColor=black)
+![knitr](https://img.shields.io/badge/knitr-7FA1C3?style=for-the-badge&logo=R&logoColor=white)
+![psych](https://img.shields.io/badge/psych-D1E9F6?style=for-the-badge&logo=R&logoColor=black)
